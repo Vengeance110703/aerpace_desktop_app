@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>splashscreen.mp4</file>
+        <file>aerpace_official_logo.jpg</file>
+    </qresource>
+</RCC>
